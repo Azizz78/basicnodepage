@@ -75,3 +75,8 @@ server.listen(port ,()=>{
   console.log(`server runnning on http://localhost:${port}`)
 })
 
+
+
+function sayHi() {
+  alert("Hello from JavaScript!");
+}
